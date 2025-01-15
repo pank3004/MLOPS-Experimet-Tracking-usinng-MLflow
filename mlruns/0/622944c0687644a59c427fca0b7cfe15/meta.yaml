@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/622944c0687644a59c427fca0b7cfe15/artifacts
+end_time: 1736909306868
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 622944c0687644a59c427fca0b7cfe15
+run_name: magnificent-finch-30
+run_uuid: 622944c0687644a59c427fca0b7cfe15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736909306812
+status: 3
+tags: []
+user_id: '91830'

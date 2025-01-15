@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/943970097974908100/6f83d6b912bc4ba2a17bf81f2262caa1/artifacts
+end_time: 1736911965509
+entry_point_name: ''
+experiment_id: '943970097974908100'
+lifecycle_stage: active
+run_id: 6f83d6b912bc4ba2a17bf81f2262caa1
+run_name: luxuriant-snipe-555
+run_uuid: 6f83d6b912bc4ba2a17bf81f2262caa1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736911965338
+status: 3
+tags: []
+user_id: '91830'

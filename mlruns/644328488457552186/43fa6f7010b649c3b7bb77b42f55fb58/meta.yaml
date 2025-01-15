@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/644328488457552186/43fa6f7010b649c3b7bb77b42f55fb58/artifacts
+end_time: 1736912034042
+entry_point_name: ''
+experiment_id: '644328488457552186'
+lifecycle_stage: active
+run_id: 43fa6f7010b649c3b7bb77b42f55fb58
+run_name: intrigued-whale-158
+run_uuid: 43fa6f7010b649c3b7bb77b42f55fb58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736912033794
+status: 3
+tags: []
+user_id: '91830'

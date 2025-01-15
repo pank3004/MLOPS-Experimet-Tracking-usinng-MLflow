@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/360943052316164966/9694b2569e8f4bf293683f8e2142989c/artifacts
+end_time: 1736912551845
+entry_point_name: ''
+experiment_id: '360943052316164966'
+lifecycle_stage: active
+run_id: 9694b2569e8f4bf293683f8e2142989c
+run_name: melodic-robin-70
+run_uuid: 9694b2569e8f4bf293683f8e2142989c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736912544717
+status: 3
+tags: []
+user_id: '91830'

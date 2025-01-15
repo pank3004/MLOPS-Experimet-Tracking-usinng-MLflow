@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/360943052316164966/9d95a4abc93a46748aa71e930616f7c1/artifacts
+end_time: 1736915159362
+entry_point_name: ''
+experiment_id: '360943052316164966'
+lifecycle_stage: active
+run_id: 9d95a4abc93a46748aa71e930616f7c1
+run_name: casual-frog-853
+run_uuid: 9d95a4abc93a46748aa71e930616f7c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736915155464
+status: 3
+tags: []
+user_id: '91830'

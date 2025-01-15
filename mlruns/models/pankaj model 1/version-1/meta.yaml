@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1736917050309
+current_stage: None
+description: ''
+last_updated_timestamp: 1736917050309
+name: pankaj model 1
+run_id: a09fce16599e45a0a9aaf7d38801a941
+run_link: ''
+source: file:///C:/End%20to%20End%20MLOPS/MLOPS-Experimet-Tracking-usinng-MLflow/mlruns/451004861116696317/a09fce16599e45a0a9aaf7d38801a941/artifacts/random_forest
+status: READY
+status_message: null
+storage_location: file:///C:/End%20to%20End%20MLOPS/MLOPS-Experimet-Tracking-usinng-MLflow/mlruns/451004861116696317/a09fce16599e45a0a9aaf7d38801a941/artifacts/random_forest
+user_id: null
+version: 1

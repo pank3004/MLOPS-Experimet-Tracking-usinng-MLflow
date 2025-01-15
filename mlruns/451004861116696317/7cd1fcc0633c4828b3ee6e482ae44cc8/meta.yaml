@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/End%20to%20End%20MLOPS/MLOPS-Experimet-Tracking-usinng-MLflow/mlruns/451004861116696317/7cd1fcc0633c4828b3ee6e482ae44cc8/artifacts
+end_time: 1736916617893
+entry_point_name: ''
+experiment_id: '451004861116696317'
+lifecycle_stage: active
+run_id: 7cd1fcc0633c4828b3ee6e482ae44cc8
+run_name: gaudy-donkey-51
+run_uuid: 7cd1fcc0633c4828b3ee6e482ae44cc8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736916617855
+status: 3
+tags: []
+user_id: '91830'

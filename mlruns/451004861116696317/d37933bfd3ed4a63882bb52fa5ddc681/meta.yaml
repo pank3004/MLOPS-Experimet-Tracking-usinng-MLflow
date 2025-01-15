@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/End%20to%20End%20MLOPS/MLOPS-Experimet-Tracking-usinng-MLflow/mlruns/451004861116696317/d37933bfd3ed4a63882bb52fa5ddc681/artifacts
+end_time: 1736916618283
+entry_point_name: ''
+experiment_id: '451004861116696317'
+lifecycle_stage: active
+run_id: d37933bfd3ed4a63882bb52fa5ddc681
+run_name: unruly-gnat-243
+run_uuid: d37933bfd3ed4a63882bb52fa5ddc681
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736916618237
+status: 3
+tags: []
+user_id: '91830'

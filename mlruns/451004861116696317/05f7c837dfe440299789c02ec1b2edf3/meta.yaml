@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/End%20to%20End%20MLOPS/MLOPS-Experimet-Tracking-usinng-MLflow/mlruns/451004861116696317/05f7c837dfe440299789c02ec1b2edf3/artifacts
+end_time: 1736916618127
+entry_point_name: ''
+experiment_id: '451004861116696317'
+lifecycle_stage: active
+run_id: 05f7c837dfe440299789c02ec1b2edf3
+run_name: burly-bear-514
+run_uuid: 05f7c837dfe440299789c02ec1b2edf3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736916618089
+status: 3
+tags: []
+user_id: '91830'

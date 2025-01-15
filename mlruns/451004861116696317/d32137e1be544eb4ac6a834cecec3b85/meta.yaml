@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/End%20to%20End%20MLOPS/MLOPS-Experimet-Tracking-usinng-MLflow/mlruns/451004861116696317/d32137e1be544eb4ac6a834cecec3b85/artifacts
+end_time: 1736916618175
+entry_point_name: ''
+experiment_id: '451004861116696317'
+lifecycle_stage: active
+run_id: d32137e1be544eb4ac6a834cecec3b85
+run_name: wise-owl-446
+run_uuid: d32137e1be544eb4ac6a834cecec3b85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736916618139
+status: 3
+tags: []
+user_id: '91830'

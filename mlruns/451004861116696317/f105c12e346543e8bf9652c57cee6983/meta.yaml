@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/End%20to%20End%20MLOPS/MLOPS-Experimet-Tracking-usinng-MLflow/mlruns/451004861116696317/f105c12e346543e8bf9652c57cee6983/artifacts
+end_time: 1736916617799
+entry_point_name: ''
+experiment_id: '451004861116696317'
+lifecycle_stage: active
+run_id: f105c12e346543e8bf9652c57cee6983
+run_name: capable-boar-995
+run_uuid: f105c12e346543e8bf9652c57cee6983
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736916617763
+status: 3
+tags: []
+user_id: '91830'

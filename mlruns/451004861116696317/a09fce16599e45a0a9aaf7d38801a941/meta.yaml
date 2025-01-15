@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/End%20to%20End%20MLOPS/MLOPS-Experimet-Tracking-usinng-MLflow/mlruns/451004861116696317/a09fce16599e45a0a9aaf7d38801a941/artifacts
+end_time: 1736916627649
+entry_point_name: ''
+experiment_id: '451004861116696317'
+lifecycle_stage: active
+run_id: a09fce16599e45a0a9aaf7d38801a941
+run_name: spiffy-conch-79
+run_uuid: a09fce16599e45a0a9aaf7d38801a941
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736916611454
+status: 3
+tags: []
+user_id: '91830'

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/End%20to%20End%20MLOPS/MLOPS-Experimet-Tracking-usinng-MLflow/mlruns/451004861116696317/afcb582e23a245089c7a835162f7e8c3/artifacts
+end_time: 1736916617991
+entry_point_name: ''
+experiment_id: '451004861116696317'
+lifecycle_stage: active
+run_id: afcb582e23a245089c7a835162f7e8c3
+run_name: fearless-sloth-618
+run_uuid: afcb582e23a245089c7a835162f7e8c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736916617951
+status: 3
+tags: []
+user_id: '91830'

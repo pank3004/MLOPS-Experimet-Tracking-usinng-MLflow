@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/End%20to%20End%20MLOPS/MLOPS-Experimet-Tracking-usinng-MLflow/mlruns/451004861116696317/267d2ee496744102b69f1a81a32fc00b/artifacts
+end_time: 1736916254676
+entry_point_name: ''
+experiment_id: '451004861116696317'
+lifecycle_stage: active
+run_id: 267d2ee496744102b69f1a81a32fc00b
+run_name: big-bear-680
+run_uuid: 267d2ee496744102b69f1a81a32fc00b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736916240921
+status: 3
+tags: []
+user_id: '91830'

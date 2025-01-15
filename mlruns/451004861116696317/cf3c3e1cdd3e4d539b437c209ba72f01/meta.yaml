@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/End%20to%20End%20MLOPS/MLOPS-Experimet-Tracking-usinng-MLflow/mlruns/451004861116696317/cf3c3e1cdd3e4d539b437c209ba72f01/artifacts
+end_time: 1736916618223
+entry_point_name: ''
+experiment_id: '451004861116696317'
+lifecycle_stage: active
+run_id: cf3c3e1cdd3e4d539b437c209ba72f01
+run_name: bright-bee-78
+run_uuid: cf3c3e1cdd3e4d539b437c209ba72f01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736916618186
+status: 3
+tags: []
+user_id: '91830'
